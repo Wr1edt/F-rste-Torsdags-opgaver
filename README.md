@@ -1,19 +1,1 @@
-# F-rste-Torsdags-opgaver
-Første Torsdags opgaver description
-
-opgave 2:
-
-// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String studentName= "Andreas Wriedt"
-String studentName= "Andreas Wriedt"; 
-int a = 365;
-String city = "København";
-boolean x = true;
-int d = 60*24;
-float b = 22.12f;
-String navn = "Hej, jeg hedder "+ studentName;
-boolean e = false;
-float c = 2.2f + 33;
-char bogstav = 'S';
-
-println(navn);
 
